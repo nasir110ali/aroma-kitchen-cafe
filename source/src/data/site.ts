@@ -36,7 +36,7 @@ export const officialMenus = [
     id: 'deals-and-info',
     label: 'Official deals & restaurant information',
     alt: 'Official Aroma Kitchen & Cafe deals and restaurant information menu with Deals 1 through 25, contact details and dining information',
-    image: '/menu-deals.png',
+    image: "/aroma-kitchen-cafe/menu-main.png",
   },
 ];
 
@@ -53,7 +53,7 @@ export const sampleReviews = [
 ];
 
 export const instagramFeature = {
-  image: '/monday-deal.png',
+  image: "/aroma-kitchen-cafe/monday-deal.png",
   alt: 'Aroma Kitchen and Cafe Monday Deal with Makhni Handi, chapatis, dessert and Cola Next',
   title: 'It’s Monday. You’re not in the mood?',
   description: 'It’s Monday, you’re not in the mood, and you really don’t feel like cooking? 😩 The solution is simple — Aroma Kitchen & Cafe’s Monday Deal, for just Rs. 1520/-! No cooking hassles, no Monday blues — just order and enjoy piping hot, home-style food. 🔥',
@@ -63,7 +63,7 @@ export const instagramFeature = {
 };
 
 export const peshawariFeature = {
-  image: '/chicken-peshawari-karahi.png',
+  image: "/aroma-kitchen-cafe/chicken-peshawari-karahi.png",
   alt: 'Aroma Kitchen and Cafe Chicken Peshawari Karahi prepared in a steaming karahi in a traditional market setting',
   title: 'The authentic taste of Peshawar is now in Karachi!',
   description: 'Aroma Kitchen & Cafe brings you Chicken Peshawari Karahi—prepared with desi spices and traditional techniques, offering the true flavor of Pakistan in every bite.',
