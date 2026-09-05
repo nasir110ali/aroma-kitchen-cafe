@@ -28,7 +28,7 @@ if (!basePath) {
 }
 
 export default defineConfig({
-  base: basePath,
+  base: '/aroma-kitchen-cafe/',
   plugins: [
     react(),
     tailwindcss(),
